@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "llm"
+version = "0.1.0"
+description = ""
+authors = ["Bluefin-Tuna <50528857+Bluefin-Tuna@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+nltk = "^3.8.1"
+ipykernel = "^6.29.3"
+jsonlines = "^4.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
