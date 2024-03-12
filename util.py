@@ -1,5 +1,6 @@
 from collections import defaultdict
 
+PROMPT_PATH = "./data"
 agents = []
 
 def group(part, k):
@@ -17,4 +18,10 @@ def partition(examples, key):
         part[example[key]].append(example)
     return part
 
-def goal_prompt(school):
+def load_prompt(prompt, _path = PROMPT_PATH):
+    file = open(f"{_path}/{prompt}.prompt", "r")
+    rprompt = file.read()
+    file.close()
+    return rprompt
+
+def contaminate():
