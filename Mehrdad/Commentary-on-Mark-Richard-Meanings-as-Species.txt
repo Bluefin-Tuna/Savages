@@ -1,0 +1,333 @@
+      Inquiry
+      An Interdisciplinary Journal of Philosophy
+
+
+
+
+      ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/sinq20
+
+
+
+
+Commentary on Mark Richard, Meanings as Species
+
+Daniel Dennett
+
+To cite this article: Daniel Dennett (2024) Commentary on Mark Richard, Meanings as Species,
+Inquiry, 67:2, 626-632, DOI: 10.1080/0020174X.2022.2039852
+To link to this article: https://doi.org/10.1080/0020174X.2022.2039852
+
+
+
+
+       Published online: 24 Mar 2022.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 175
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=sinq20
+INQUIRY
+2024, VOL. 67, NO. 2, 626–632
+https://doi.org/10.1080/0020174X.2022.2039852
+
+
+COMMENTARY
+
+Commentary on Mark Richard, Meanings as Species
+Daniel Dennett
+Center for Cognitive Studies, Tufts University, Medford, MA, USA
+ARTICLE HISTORY Received 17 January 2020; Accepted 17 January 2020
+
+
+
+
+A fond farewell to Cartesian linguistics
+It’s been a long productive ride, but it’s time to get oﬀ the bandwagon
+and recognize that the Cartesian tradition, in analytic philosophy of
+language and mind and linguistics, has played itself out in a constructive
+and honorable way: by being both rigorous and ambitious, it has uncov-
+ered the contradictions in its own grand scheme, and helped lay the foun-
+dations for a more naturalistic understanding of meaning. It is hard to
+imagine how Einsteinian physics could have ever come into existence
+without being able to use Newtonian physics as a well-equipped base
+camp, and the emerging view of meanings that Richard so patiently
+and exhaustively extracts from the analytic tradition is similarly illumi-
+nated by its obsolescent concepts. Essentialism is always appealing to
+theoreticians, especially to philosophers, because it promises what
+might be called the Euclidiﬁcation of theory: a set of deﬁnitions and
+axioms from which theorems might be deduced and then triumphantly
+conﬁrmed empirically, just like geometry, the ideal of knowledge ever
+since Socrates and the slave boy. Wouldn’t it be wonderful to have a
+theory of meaning that was full of rigorous proofs, thanks to a starter
+kit of ingenious idealizations!
+    That dream has been the inspiration of philosophers who have clung
+to Frege and Russell and their brilliant successors for more than a
+century, and one of the most interesting features of Richard’s book – to
+me – is how hard he has to labor to get and hold the attention of
+those of his colleagues whose natural reaction to his arguments for
+these innovations is so often an inability to suspend disbelief long
+enough to consider a position. Another is his exposure of what I now
+
+CONTACT Daniel Dennett        daniel.dennett@tufts.edu         Center for Cognitive Studies, Tufts Uni-
+versity, Medford, MA 02155, USA
+© 2022 Informa UK Limited, trading as Taylor & Francis Group
+                                                                         INQUIRY            627
+
+
+recognize as a philosophical syndrome: the inability of many philosophers
+to live with some of the counterintuitive doctrines of some of their heroes.
+Long ago I realized that many self-styled Wittgensteinians couldn’t recon-
+cile themselves to the ominously ‘behavioristic’ implications of his beetle
+in the box (which I have always endorsed – see my discussion in Con-
+sciousness Explained (1991a), pp. 462–463), and Richard shows that a
+similar discomfort haunts those who admire Quine for his ambitious
+attempt, mainly in Word and Object’ (Quine 1951), but also, of course, in
+‘Two Dogmas of Empiricism’ (Quine 1960), to ‘regiment’ language, the
+ultimate goal of so much Cartesian theorizing. Indeterminacy of
+meaning? Fie! How can we accept any indeterminacy of meaning if we
+are to Euclidify the ﬁeld? Quine has to be wrong about that! Richard
+shows that we can do this as calmly as rigorous Darwinian biologists
+accept the indeterminacy of species boundaries. The empirical world
+has, happily, enough regularity, enough ‘real patterns’ (Dennett, 1991b)
+in it, to anchor our meanings well enough to give us time to build
+science using our shared understanding. As Richard says,
+  I think Quine’s skepticism is overdone. I agree that there is a healthy indetermi-
+  nacy as to whether, for example, samples of green tea are things of which
+  ‘water’ as it’s used in the everyday is true. But I reject Quine’s linguistic behavior-
+  ism. Psychological structures like prototypes and schemata as well as (innate)
+  psychological states involved in the analysis of perception and the generation
+  of ‘core concepts’ are shared by all normal humans. They are associated in the
+  course of language learning with both lexical items and more complex phrases.
+  This association helps ground translation, I would say, in a way that supports
+  our everyday practices of interpretation without oﬀering support to the idea
+  that ‘Pupkins’ means something like, ‘Oh, lo, an animated piece of the sum of
+  the canine world’. This and what I called in this section causal constraints on
+  translation, I would say, reduces but does not eliminate referential indetermi-
+  nacy. (p. 115)
+
+Quine was onto this, in many regards, but he never got around to seeing
+how Darwinian thinking could make his case much more intuitive.
+Richard, in his Coda, sums it up:
+  Thinking of meaning in this way has a number of payoﬀs. It reconciles Quine’s
+  skepticism about an epistemically interesting sort of analyticity—one that could
+  ground a priori knowledge—with the belief that everyday talk about meaning is
+  tracking something real, something about which we can and should theorize.
+  (p. 201)
+
+Here I must point to a major lacuna in Richard’s impressive command of
+the literature: Ruth Millikan is never mentioned. Her 1984 book, Language,
+628          D. DENNETT
+
+
+Thought and other Biological Categories, took a long time to sink in, and is
+still considered, as Meanings as Species manifests, to be outside the canon
+of unignorable work by the coterie of thinkers Richard is mainly addres-
+sing. But consider how her assault on what she called ‘meaning rational-
+ism’ in 1984 presages Richard’s claims:
+      We must be willing to discover that, just as we cannot know apriori or with Car-
+      tesian certainty whether any particular thing we think or say is true, so we cannot
+      know a priori or with Cartesian certainty that in seeming to think or talk about
+      something we are thinking or talking about—anything at all. We cannot know
+      a priori that we mean. Nor can we know a priori or with Cartesian certainty
+      what it is that we are thinking or talking about. Further, we cannot tell just by
+      armchair reﬂection whether or not two terms in our idiolect are synonymous,
+      whether a single term is ambiguous, or whether any particular state of aﬀairs
+      is or is not ‘logically possible’ in any interesting or useful sense of that term. (p. 10)
+
+And she issued a diagnosis that must have fallen on deaf ears, given the
+eﬀorts Richard must go through to close oﬀ the escape routes:
+
+      Meaning rationalism is not a single doctrine but a syndrome. The paradigm
+      meaning rationalist believes that intensions can’t be wrong or mistaken and
+      that mere (seeming) thoughts-of, as opposed to judgments about, cannot be
+      senseless. … Compulsive search for “necessary and suﬃcient conditions” by
+      which to deﬁne certain puzzling terms and engaging in the pastime of invent-
+      ing ﬁctitious “counterexamples” to these deﬁnitions is one of the clearest symp-
+      toms of meaning rationalism. (pp. 326–327)
+
+One of the innovations Richard explores so imaginatively in his book is
+the idea of Interpretive Common Ground (ICG), which includes the exter-
+nal and social environment in which a speaker is situated. Millikan, in her
+most recent book, Beyond Concepts (2017), oﬀers a way of dealing with
+the details of these social and psychological processes that cuts
+through most of the problems in a single stroke: drop the requirement
+that there are concepts that are (and must be) shared for communication
+to be possible (see Richard, p. 77). Millikan’s neologism, unicepts, are like
+concepts in that they anchor the meaning of words for individual speakers,
+but each speaker has her own way of coming to her current set of uni-
+cepts, and it is inﬂuenced by features of her life that she may be largely
+oblivious to. Unicepts are the (ultimately neurological) structures based
+on unitrackers that enable us to track regularities in the world, the Gibso-
+nian aﬀordances in our worlds that are worth attending to, and they are
+idiosyncratic, relying on the ‘clumpiness’ of the world to provide suﬃcient
+landmarks so that people can get on the same page most of the time
+without diﬃculty.
+                                                                                     INQUIRY          629
+
+
+    I am amused to note that here is another instance of what might be
+called the magical use of the deﬁnite article by philosophers. David
+Chalmers (1995) gave us The Hard Problem, which has tied conscious-
+ness researchers in knots for a quarter century because they think
+they must have a single, shared property that is, well, essential for con-
+sciousness. I have argued that they are bamboozled by the word ‘the’
+just as magicians were fooled by Ralph Hull’s magic trick, The Tuned
+Deck, which was just a bag of familiar tricks his fellow magicians
+already all knew, not a Hard Problem (Dennett, 2005, 2013). When phi-
+losophers speak, as they have since Frege, of The concept of DOG or
+HORSE, they are falling in a similar imagination trap.1 We can each
+have our own concept (or better, unicept) of DOG and HORSE, and as
+long as our concepts, like our idiolects, stay in robust consonance
+with those of our neighbors and associates, we will manage just ﬁne.
+We don’t need to go through the hundreds or thousands of ‘connota-
+tions’ each of us has for ‘married’ or ‘Jew’ sorting them into the (‘essen-
+tial’) components of meaning and the historical accidents of association
+and disposition. When evolutionary biologists adopt ‘population think-
+ing’ they don’t have to worry much about the proper distinction
+between varieties and subspecies, which individual organisms are
+‘wild type’, and which organisms are ‘sports’ or ‘mutants’. The sorta
+operator (Dennett, 2013, 2017) can be used responsibly in spite of phi-
+losophers’ obsessions with ‘diﬀerence-makers’ and other substitutes of
+essences.
+    One of Richard’s insights is an enlargement of Quine’s point about the
+triviality of stipulative deﬁnitions, which create, at best, transient analyti-
+cities. We philosophers are so fond to stipulative deﬁnitions in formal
+systems that we tend to think of them as an ideal, roughly approximated
+(somehow) in natural language, and perhaps even a worthy philosophical
+endeavor. Think how often a philosophical ‘theory’ of this or that turns
+out to be, on examination, ‘a system of deﬁnitions propounded and
+defended’ (the subtitle of David Schwayder’s 1965 book). But when we sti-
+pulatively deﬁne a term, we launch it into the world as a candidate for
+adoption, and this is a ballistic launch, nothing we can easily control or
+guide as time passes (Richard, pp. 36–37). Just think of how Dawkins’
+rather careful deﬁnition of his coinage ‘meme’ has evolved over the
+years (Dennett, 2017).
+
+1
+    ‘If we take the deﬁnite article seriously—the concept marriage has diﬀerent application conditions now
+      than it did before—we seem to be rejecting referentialism’ (Richard, p. 129).
+630          D. DENNETT
+
+
+   Richard has delved well into the ways and ideas of evolutionary
+biology, but he’s missed a few tricks that could help his case. A footnote
+(p. 12) perpetuates a common confusion about Lamarckianism.
+
+      There are of course major disanalogies between biological and linguistic evol-
+      ution. For example: Linguistic evolution is in good part Lamarckian, with
+      ‘acquired traits’ often becoming ﬁxed in a language. Even granting that there
+      are some Lamarckian processes in biological evolution, they are presumably
+      nowhere near as important biologically as they are linguistically.
+
+The Lamarckian heresy is properly restricted to multicellular organisms
+that distinguish somatic cells from germ line cells. In viruses, for
+example, there is really no useful distinction between mutation and the
+acquisition of new traits. If meanings are considered to be memes, unliv-
+ing but evolving ‘symbionts’ of language users, the misdirection disap-
+pears. When Jane Q. Public’s meaning of the word ‘marriage’ evolves –
+perhaps without her realizing it – this is no more Lamarckian than her
+unwitting acquisition of a mutant strain of Covid-19. This shift in perspec-
+tive comes in handy on p100, where Richard says
+
+      It is natural to describe the members of our little family as literally sharing a
+      vocabulary. Saying that, we can’t identify the words of the shared vocabulary
+      with feature sets—collections of morphological, phonological, syntactic, and
+      semantic properties manifested in the user’s speech. For if that’s what words
+      are, our family members do not have common words for ‘coﬀee’, ‘eat’, and
+      ‘mother’. If we are going to describe the family in the natural way, we need
+      to think of words in some other way. What seems apt is to think of them in
+      something like the way that we are taught in high school to think of genes.
+      Genes come in diﬀerent ‘versions’—alleles—and diﬀerent members of a
+      species will vary as to which alleles of a particular gene they have. Likewise,
+      words come in diﬀerent versions, and Matt, Noah, and Diane have diﬀerent ver-
+      sions of the same words. If this is how we think of things, then linguistic indi-
+      viduals—embodied lexicons—are not stable in the way that embodied
+      genomes are, for such things as morphology, phonology, and syntactic and
+      semantic roles in a lexicon change over time.
+
+No, words are not like genes; they are like viruses and bacteria. And ‘lin-
+guistic individuals – embodied lexicons’ are more perspicuously seen as
+having something like a microbiome, a huge population of unrelated
+symbionts, some very useful, even essential for life, and others quite dele-
+terious in their eﬀects on their hosts. One of the great contributions of
+evolutionary thinking here – and I think Richard recognizes this, but
+doesn’t stress it, is that when a process is a variety of natural selection,
+things can happen that aren’t just caused; there are reasons why they
+                                                                   INQUIRY       631
+
+
+happen, reasons that nobody needs to formulate or appreciate – free-
+ﬂoating rationales, as I have called them (1983, 2017).
+   While I am drawing attention to worthy compatriots who have escaped
+Richard’s notice, I must add linguist Daniel Dor’s remarkable work, The
+Instruction of Imagination (Harvard Univ. Press, 2014), which somehow
+fell deadborn from the press and has received scant attention from the
+linguists and philosophers of language who could beneﬁt from it, if
+only by discovering novel objections to the novel arguments he
+advances. He, like many others, has still not appreciated the power of
+evolutionary thinking (and especially the power of free-ﬂoating ratio-
+nales) but his particular ways of resisting the pull of Chomsky’s version
+of nativism, and his appreciation of the role of Richard’s ICGs, makes
+him unignorable, in my view, by those who are waking up from their Car-
+tesian reveries.
+   We are all familiar with the language mavens who insist on the ‘rules’ of
+‘proper English’ and we have learned at long last to look askance at their
+editorial edicts about ‘correct pronunciation’ and whether it is OK to blithely
+split an inﬁnitive, a practice up with which they will not put. We should
+recognize that treating meanings as timeless is just another tenet of this
+schoolmarmish and unmotivatable ideology. Things shift. Communication
+continues. Laying down the law in dictionaries is an obsolete idea. Stipu-
+lated meanings in formal systems are OK, but we need to remember that
+these are special cases, deliberately frozen in time, so to speak. A proper
+semantics of natural language will look more like biology than geometry.
+
+
+Disclosure statement
+No potential conﬂict of interest was reported by the authors .
+
+
+
+References
+Chalmers, David. 1995. “Facing Up to the Problem of Consciousness.” Journal of
+  Consciousness Studies 2: 200–219.
+Dennett, Daniel C. 1983. “Intentional Systems in Cognitive Ethology: The “Panglossian
+  Paradigm” Defended.” Behavioral and Brain Sciences 6: 343–390.
+Dennett, Daniel C. 1991a. Consciousness Explained. Boston: Little, Brown.
+Dennett, Daniel C. 1991b. “Real Patterns.” The Journal of Philosophy 88 (1): 27–51.
+Dennett, Daniel C. 2005. Sweet Dreams: Philosophical Obstacles to a Science of
+  Consciousness. Cambridge, MA: MIT Press.
+Dennett, Daniel C. 2013. Intuition Pumps and Other Tools for Thinking. New York: W.W.
+  Norton & Co.
+632       D. DENNETT
+
+
+Dennett, Daniel C. 2017. From Bacteria to Bach and Back: The Evolution of Minds.
+  New York: W.W. Norton & Co.
+Dor, Daniel. 2014. The Instruction of Imagination. Cambridge, MA: Harvard University
+  Press.
+Millikan, Ruth. 1984. Language, Thought and Other Biological Categories, Beyond
+  Concepts. Cambridge, MA: MIT Press.
+Millikan, Ruth. 2017. Beyond Concepts: Unicepts, Language, and Natural Information.
+  Oxford: Oxford University Press.
+Quine, W. V. O. 1951. “Two Dogmas of Empiricism.” The Philosophical Review 60 (1):
+  20–42.
+Quine, W. V. O. 1960. Word and Object. Cambridge: MIT Press.
+Quine, W. V. O. 1965. The Stratiﬁcation of Behavior. Schwayder, DS: Humanities Press.
+
