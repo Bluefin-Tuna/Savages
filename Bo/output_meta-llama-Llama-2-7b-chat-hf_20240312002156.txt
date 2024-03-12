@@ -1,0 +1,25 @@
+/home/byuan48/anaconda3/lib/python3.9/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.52s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.58s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.87s/it]
+Precessed passage: 10
+
+Precessed passage: 20
+
+Precessed passage: 30
+
+Precessed passage: 40
+
+Precessed passage: 50
+
+Precessed passage: 60
+
+Precessed passage: 70
+
+Precessed passage: 80
+
+Precessed passage: 90
+
+Precessed passage: 100
+
+author:Immanuel Kant title:Kant's Critique of Judgement model:meta-llama/Llama-2-7b-chat-hf
+accu:0.14

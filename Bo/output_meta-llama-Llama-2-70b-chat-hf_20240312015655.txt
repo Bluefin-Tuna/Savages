@@ -1,0 +1,26 @@
+/home/byuan48/anaconda3/lib/python3.9/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:12<02:48, 12.04s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:21<02:18, 10.64s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:34<02:17, 11.49s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:46<02:09, 11.74s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:58<02:00, 12.04s/it]Loading checkpoint shards:  40%|████      | 6/15 [01:12<01:51, 12.43s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [01:24<01:40, 12.58s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [01:38<01:29, 12.76s/it]Loading checkpoint shards:  60%|██████    | 9/15 [01:51<01:16, 12.81s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [02:02<01:02, 12.51s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [02:13<00:47, 11.94s/it]Loading checkpoint shards:  80%|████████  | 12/15 [02:24<00:34, 11.50s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [02:34<00:22, 11.11s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [02:44<00:10, 10.90s/it]Loading checkpoint shards: 100%|██████████| 15/15 [02:45<00:00,  7.80s/it]Loading checkpoint shards: 100%|██████████| 15/15 [02:45<00:00, 11.02s/it]
+WARNING:root:Some parameters are on the meta device device because they were offloaded to the cpu.
+Precessed passage: 10
+
+Precessed passage: 20
+
+Precessed passage: 30
+
+Precessed passage: 40
+
+Precessed passage: 50
+
+Precessed passage: 60
+
+Precessed passage: 70
+
+Precessed passage: 80
+
+Precessed passage: 90
+
+Precessed passage: 100
+
+author:Aristotle title:Aristotle on the art of poetry model:meta-llama/Llama-2-70b-chat-hf
+accu:0.53

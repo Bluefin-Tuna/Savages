@@ -1,0 +1,26 @@
+/home/byuan48/anaconda3/lib/python3.9/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:13<03:11, 13.68s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:26<02:52, 13.26s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:39<02:36, 13.07s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:52<02:21, 12.90s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [01:04<02:07, 12.79s/it]Loading checkpoint shards:  40%|████      | 6/15 [01:17<01:54, 12.73s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [01:29<01:41, 12.63s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [01:42<01:28, 12.59s/it]Loading checkpoint shards:  60%|██████    | 9/15 [01:54<01:15, 12.59s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [02:06<01:01, 12.38s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [02:17<00:47, 11.86s/it]Loading checkpoint shards:  80%|████████  | 12/15 [02:27<00:34, 11.38s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [02:37<00:21, 10.90s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [02:47<00:10, 10.59s/it]Loading checkpoint shards: 100%|██████████| 15/15 [02:47<00:00,  7.55s/it]Loading checkpoint shards: 100%|██████████| 15/15 [02:47<00:00, 11.19s/it]
+WARNING:root:Some parameters are on the meta device device because they were offloaded to the cpu.
+Precessed passage: 10
+
+Precessed passage: 20
+
+Precessed passage: 30
+
+Precessed passage: 40
+
+Precessed passage: 50
+
+Precessed passage: 60
+
+Precessed passage: 70
+
+Precessed passage: 80
+
+Precessed passage: 90
+
+Precessed passage: 100
+
+author:Friedrich Wilhelm Nietzsche title:The Birth of Tragedy; or, Hellenism and Pessimism model:meta-llama/Llama-2-70b-chat-hf
+accu:0.78
