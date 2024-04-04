@@ -1,4 +1,6 @@
 from collections import defaultdict
+from prompt import Prompt
+from langchain.chat_models import ChatOpenAI, ChatAnthropic
 import jsonlines
 
 DATA_PATH = "./data"
@@ -35,6 +37,12 @@ class Dataset:
             part[example[key]].append(example)
         return part
 
+agents = [
+    ChatOpenAI(openai_api_key="", model="gpt-3.5-turbo-16k", temperature=0.5)
+]
 
-def contaminate():
-    
+dataset = Dataset()
+for ex in dataset.data[0:1]:
+    print(ex)
+    kk = Prompt().contaminate(ex, agent=agents[0])
+    print(kk)

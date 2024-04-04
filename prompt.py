@@ -37,37 +37,40 @@ class Prompt:
         # Inference
         self.task = load_prompt("task")
     
-    def create_inference_prompt(self, ex, choices, with_permutation):
+    def create_inference_prompt(self, ex, with_permutation):
         if with_permutation:
-            random.shuffle(choices)
-        str_choices = "\n".join([f"{k}. {v}" for (k, v) in choices])
+            random.shuffle(ex["choices"])
+        str_choices = "\n".join([f"{k}. {v}" for (k, v) in ex["choices"]])
         return (
             f"{self.task}\n\n"
             "```passage\n"
-            f"{ex["sentence"]}\n"
+            f'{ex["sentence"]}\n'
             "```\n\n"
-            f"{str_choices}"
-        ), choices
+            f"{str_choices}")
 
     def _probe_context(self, ex):
         return (
             f"{self.context[0]}\n\n"
             "```context\n"
-            f"{ex["sentence"]}\n"
+            f'{ex["sentence"]}\n'
             "```")
 
     def _probe_choice(self, ex):
+        str_choices = "\n".join([f"{k}. {v}" for (k, v) in ex["choices"]])
         return (
             f"{self.choice[0]}\n\n"
+            "```passage\n"
+            f'{ex["sentence"]}\n'
+            "```\n\n"
             "```choice\n"
-            f"{ex['choices']}\n"
+            f"{str_choices}\n"
             "```")
 
     def _judge_context(self, ex, cex):
         return (
             f"{self.context[1]}\n\n"
             "```original\n"
-            f"{ex["sentence"]}\n"
+            f'{ex["sentence"]}\n'
             "```\n\n"
             "```modified\n"
             f"{cex}\n"
@@ -87,7 +90,7 @@ class Prompt:
         i = 0
         while i < 3:
             _probe_pt = self._probe_choice(ex)
-            modifiedChoices = agent.predict(_probe_pt)  # This should return modified choices
+            modifiedChoices = agent.predict(_probe_pt)
             _judge_pt = self._judge_choice(ex, modifiedChoices)
             if "Yes" in _judge_pt.lower():
                 modifiedExample = ex.copy()
@@ -110,4 +113,8 @@ class Prompt:
             i += 1
         return None
 
-    def contaminate(self, ex):
+    def contaminate(self, ex, agent):
+        ex = self.contaminate_choice(ex, agent)
+        ex = self.contaminate_context(ex, agent)
+        return self.create_inference_prompt(ex, with_permutation=True)
+
