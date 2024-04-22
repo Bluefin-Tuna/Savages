@@ -1,4 +1,4 @@
-Simple prompt
+<h1>Simple prompt</h1>
 
 
 system_prompt = """ You will be presented with a multiple-choice question that quotes a passage from a book by a philosopher. 
