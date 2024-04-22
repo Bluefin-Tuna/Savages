@@ -1,3 +1,6 @@
+For unified refrence to these prompts, refer to https://www.youtube.com/watch?v=5-Fv_ZoAwrE
+
+
 Zero shot prompting
 
 
@@ -25,6 +28,7 @@ Few shot prompting
 
 Chain of thought promting
 
+Zero shot chain of thought propting
 
 Self consistency prompting
 
