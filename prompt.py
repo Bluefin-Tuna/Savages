@@ -114,6 +114,7 @@ class Prompt:
         return None
 
     def contaminate(self, ex, agent):
+        
         ex = self.contaminate_choice(ex, agent)
         ex = self.contaminate_context(ex, agent)
         return self.create_inference_prompt(ex, with_permutation=True)

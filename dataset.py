@@ -42,7 +42,15 @@ agents = [
 ]
 
 dataset = Dataset()
+choices = list(dataset.authors)
+
+import random
+
+num_mcq = 5
+
 for ex in dataset.data[0:1]:
     print(ex)
+    mcq_authors = list(random.sample(choices, num_mcq))
+    ex["choices"] = [(chr(ord("A") + i), mcq_authors[i]) for i in range(num_mcq)]
     kk = Prompt().contaminate(ex, agent=agents[0])
     print(kk)
