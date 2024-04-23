@@ -30,7 +30,9 @@ if __name__ == "__main__":
     'Georg Wilhelm Friedrich Hegel' : 'D',
     'Immanuel Kant' : 'E',
     'Ludwig Feuerbach' : 'F',
-    'Plato' : 'G'
+    'Plato' : 'G',
+    'Jennifer Saul' : 'H',
+        
 }
     options = ['A', 'B', 'C', 'D', 'E', 'F', 'G']
     right_answer = lookup_table[ data_file.split('_')[0]]
