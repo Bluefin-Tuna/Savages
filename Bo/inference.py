@@ -94,8 +94,8 @@ def run_experiment(tokenizer, model, first_param_device, **experiment):
                         predicted_author = options_dict[max(options_dict, key=lambda k: output_probs[tokenizer.encode(k)[1]].item())]
 
                     prediction.append(predicted_author==correct_author)
-                    if len(prediction) % 10 == 0:
-                        print(f"Processed passage: {len(prediction)}")
+                    # if len(prediction) % 10 == 0:
+                    #     print(f"Processed passage: {len(prediction)}")
 
             accuracy = prediction.count(True) / len(prediction)
             print(f"Author: {correct_author}, Title: {book}, Accuracy: {accuracy:.2f}")
