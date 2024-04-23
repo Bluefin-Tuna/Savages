@@ -35,7 +35,7 @@ if __name__ == "__main__":
     'Linda Martín Alcoff' : 'I'
         
 }
-    options = ['A', 'B', 'C', 'D', 'E', 'F', 'G','H']
+    options = ['A', 'B', 'C', 'D', 'E', 'F', 'G','H','I']
     right_answer = lookup_table[ data_file.split('_')[0]]
     sentence_or_paragraph = data_file.split('_')[-1].split('.')[0]
     author = data_file.split('_')[0]
