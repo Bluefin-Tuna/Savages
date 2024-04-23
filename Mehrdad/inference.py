@@ -32,9 +32,10 @@ if __name__ == "__main__":
     'Ludwig Feuerbach' : 'F',
     'Plato' : 'G',
     'Jennifer Saul' : 'H',
+    'Linda Martín Alcoff' : 'I'
         
 }
-    options = ['A', 'B', 'C', 'D', 'E', 'F', 'G']
+    options = ['A', 'B', 'C', 'D', 'E', 'F', 'G','H']
     right_answer = lookup_table[ data_file.split('_')[0]]
     sentence_or_paragraph = data_file.split('_')[-1].split('.')[0]
     author = data_file.split('_')[0]
@@ -55,6 +56,8 @@ if __name__ == "__main__":
     E. Immanuel Kant
     F. Ludwig Feuerbach
     G. Plato
+    H. Jennifer Saul
+    I. Linda Martín Alcoff
     Answer:"""
     # data_file = "/home/byuan48/models/CS8803/Immanuel Kant_Kant's Critique of Judgement_sentence.jsonl"
     # Open the jsonl file
