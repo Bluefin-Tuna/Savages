@@ -1,0 +1,494 @@
+Only Natural: Gender, Knowledge, and Humankind, by Louise Antony. NY:
+Oxford University Press, 2022. Pp. xvi + 432.
+Louise Antony is a towering figure, one of the founders of analytic feminism.
+Her collected papers show the breadth of her scholarship, brilliance, and influence—across philosophy of mind, epistemology, philosophy of psychology,
+philosophy of language, and even ethics. In all these areas, Antony applies a
+carefully honed feminist lens, developed through not just academic work but
+decades of feminist activism.
+In some books, a philosopher’s character comes through very clearly, and
+in this book of collected papers (from the acknowledgements onward) it could
+not be clearer how deeply Antony treasures her many decades of passionate
+disagreement with other feminist philosophers. An important strand of this has
+been her ardent defence of individualism, beginning with the classic (and brilliantly titled) ‘Sisters, Please, I’d Rather Do it Myself ’, going deeply against the
+grain of most feminist thought to defend individualism in feminist epistemology. Another strand, equally antithetical to many feminist philosophers, has
+been her arguments defending the idea of human nature, and even cognitive
+nativism. Here her focus has been on showing that one can, for example, accept
+the idea of humans as having evolved a universal grammar—while nonetheless rejecting the many deeply sexist uses of human nature and evolutionary
+psychology that feminists have rightly railed against. An especially important
+paper in this vein is her ‘“Human Nature” and its Role in Feminist Theory’.
+This is intimately related to Antony’s long-standing defence of naturalism in
+philosophy, beginning with her brilliant ‘Quine as Feminist’. Indeed, another
+distinctive feature of her work is her careful engagement with empirical literature. There is nowhere that this shines through so clearly as in her wonderful
+‘Different Voices or Perfect Storm’, one the most important papers written on
+the underrepresentation of women in philosophy. This is a tightly argued critical response to some of the theories that have been put forward to explain this
+underrepresentation, but it also puts forward its own very compelling ‘perfect
+storm’ model. Whether or not you agree with Antony, you will benefit from
+reading and engaging deeply with this book—and these articles are, for me,
+particular high points.
+Yet I’m going to focus on a different chapter, ‘Is There a Feminist Philosophy
+of Language?’, which has not been so widely engaged with. Antony here takes up
+
+Mind, Vol. XX . XX . XX 2024
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+Book Review
+
+2
+
+Book Review
+
+1. A personal anecdote
+I’ll begin the contextualising with a personal anecdote. Back in the early 1990s,
+I was a graduate student at Princeton. I was fascinated by analytic philosophy of
+language, but I also had a passion for feminist politics. I was especially drawn to
+H.P. Grice, and also to direct reference and substitution puzzle cases involving
+names. Supervised by Scott Soames, I unsurprisingly found myself working on
+the pragmatic theory that direct reference theorists could use to defend themselves against objections. But I still loved feminism—I just couldn’t see any way
+to combine it with philosophy of language. There really was almost no analytic feminist philosophy at the time, and it was incredibly difficult to find what
+existed. Pre-internet, to search for a topic meant physically looking it up in
+year volume after year volume of The Philosopher’s Index—and there was almost
+nothing there. Imagine my delight, then, to come across an article on feminism
+that discussed theories of reference—my heart leapt with the thought that it
+might just be possible to combine my interests. This was ‘How Can Language
+Be Sexist?’ by Merrill and Jaakko Hintikka (Hintikka and Hintikka 1983), and
+it got off to a great start from my perspective, suggesting that ‘a number of sexist
+uses of language illustrate interesting general theoretical problems. The diagnosis of such sexist uses hence involves serious problems of theoretical semantics’
+(p. 155). I read on, and discovered that a major theme of the paper was women’s
+tendency to think in terms of relations and men’s to think in terms of individuals—and a key example of male bias was direct reference theorists’ views
+on names. I had finally found people combining feminism and philosophy of
+language, and they were telling me (or so it felt) that my research project was
+nothing but a pile of male bias, which no feminist should be pursuing. In the
+early years of my career, they were not the only ones. Jennifer Hornsby (2000)
+again took up the idea that individualism was male, using this to suggest—as I
+read her—that one could not be a feminist and a Gricean. (I actually don’t think
+of myself as an individualist, but I am a Gricean.)
+Mind, Vol. XX . XX . XX 2024
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+a particular set of arguments against what some feminist critics called ‘individualism’ in philosophy of language. (Importantly, there are many quite distinct arguments against individualism which Antony discusses elsewhere.) I have chosen a
+deep dive into this paper for several reasons. Some, as the reader will shortly see,
+are personal. But it is also a nice illustration of Antony’s disagreements with other
+feminists, which I take to be one of the most important features of her work. At
+many points across the decades, Antony was a nearly lone dissenting voice: her
+willingness to disagree helped to make feminist philosophy into the flourishing,
+deeply pluralist area that it is today. Explaining some of this history will, I hope, help
+to contextualise the sometimes-heated early debates for readers who may be less
+familiar with them. A final reason for my focus, we’ll see, is that we still have much
+to learn from some of Antony’s wise words.
+
+Book Review
+
+3
+
+2. Hornsby against individualism
+2.1 Argument from the Different Voice
+
+As I’ve noted, there wasn’t much feminist analytic philosophy in the 1980s
+and 1990s. Moreover, much that did exist was strongly influenced by Carol
+Gilligan’s In a Different Voice, which outlined what Gilligan saw as a neglected
+voice in moral thinking, one she tentatively suggested to be more characteristic
+of girls and women (Gilligan 1983). Although she said that she was not claiming that men and boys think differently from women and girls, she nonetheless
+fell frequently into gendered language in describing this voice, and was widely
+taken to have made an empirical claim of gender difference. In the literature
+that flowed from Gilligan’s work, women were described as focused on emotion
+and connection; while men were described as focused on reason and individualism. These ideas were especially influential among early feminist ethicists—
+no surprise, since Gilligan’s focus had been on moral thinking. However, they
+were also taken up in other areas. It became very fashionable for feminist philosophers to criticize reason, individualism, and generality—and to base these
+criticisms in the idea that these were male ways of approaching the world. An
+important task of feminist philosophy, according to this line of thought, was
+to develop new theories based on women’s ways of thinking to replace the old
+ones that had been based on men’s.
+It is important to note that these claims are very different from the superficially similar ones of Feminist Standpoint theorists. According to standpoint
+epistemologies (which have their root in Marxism), what one is in a position to
+know depends in part on one’s social location. People who occupy marginalised
+social locations are epistemically privileged with respect to knowing certain
+sorts of things—they will find it easier to come to know these things (though
+importantly this knowledge will not be automatic). The superficial similarity
+between the Different Voice hypothesis and Feminist Standpoint Theory is that
+Mind, Vol. XX . XX . XX 2024
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+All this is why Louise Antony’s work has meant so much to me, personally—and also why it means so much to the field. Making one’s way in feminist
+analytic philosophy all too often used to require not just resisting the pressures
+of those who thought that feminism couldn’t possibly be philosophy—but also
+surviving what felt like an onslaught from the other side, from those feminists
+who insisted that one’s methodology was incompatible with feminism. The former critics wield more power, but it’s the latter who are in many ways the most
+painful—those who suggest that one’s methodological commitments disqualify
+one as a feminist. Opposing any such methodological litmus test for feminism
+is one of the most important themes of Antony’s work. Antony has been a rare
+dissenting voice defending individualism, and also defending those theories,
+thinkers, and even issues that have been linked to this suspect doctrine—a
+shockingly large collection.
+
+4
+
+Book Review
+
+The decompositionalism to which I am objecting here might be regarded
+as a masculine way of thinking. For we are sometimes told that men—men
+in our culture, that is—‘prefer what is separable’, and that women ‘assign
+importance to relational characteristics’. If it is true that, being women,
+Mind, Vol. XX . XX . XX 2024
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+both hold that gendered social locations matter cognitively. Different Voice
+theorists suggest that women and men think differently; while Standpoint theorists suggest that women may be better situated to know certain things than
+men are. Importantly, however, Standpoint theorists are not in general committed to the idea of different cognitive styles in the way that Different Voice
+theorists are. Instead, their focus is on the kinds of things that one may find it
+easier or harder to learn about—those in positions of oppression, for example,
+come to know things about the workings of oppression that those in positions
+of domination don’t. Standpoint theorists might agree with Different Voice
+theorists that women are better at discussing emotion, but they’ll differ about
+why: Different Voice theorists will say that women are more guided by emotion
+than by reason, while Standpoint theorists will point instead to women’s much
+greater experience of doing emotional labour—and the conceptual resources
+that they develop through doing this labour. Importantly, Standpoint theorists
+would not in general characterise reason as male—while Different Voice theorists would.
+The idea that women philosophers could create an entirely new form of
+philosophy because they approach the subject differently—through emotion
+and connection—seemed to many immensely exciting. It took hold not just in
+ethics, but also in other areas. Good feminists, this line of thought went, should
+embrace women’s thinking and reject men’s thinking. A good feminist, then,
+should draw from emotion rather than reason, and should focus on connection
+rather than individuals. And she should do this because that’s what women do.
+(I’ll get to better reasons in the next section.)
+This led to feminists arguing, across many areas of philosophy, that a focus
+on individuals was male—or, as some more cautiously put it—associated with
+maleness, and therefore problematic for feminists. Feminists should, according
+to this view, embrace women’s thinking by adopting a focus on connectedness.
+Take, for example, my own area of philosophy of language. This line of
+thought is what led to Hintikka and Hintikka’s argument that a focus on reference was male. And it also led Jennifer Hornsby—in an article that Antony
+wrote about in ‘Is There a Feminist Philosophy of Language?’— to argue against
+the individualism of what Hornsby (and others) called ‘malestream’ philosophy
+of language. These male ways of thinking include what Hornsby calls ‘decompositionalist’ thinking. According to such thinking, ‘the attribution of a piece of
+linguistic communication between two people is…equivalent to the conjunction of something purely speaker-related with something purely hearer-related’
+(p. 93). Hornsby claims such thinking pervades analytic philosophy wherever
+‘necessary and sufficient conditions’ for the applications of concepts are sought
+(p. 93). Hornsby further explains (pp. 93-4, emphasis in original) that:
+
+Book Review
+
+5
+
+In this paper, Hornsby argues that a notion of communicative speech acts
+should be placed at the centre of philosophy of language, and that this has been
+neglected due to the dominance of male ways of thinking. This is meant to be
+a simple and fundamental notion, not analysable into speaker, audience, and
+words uttered, and the central notion of what is said is meant to be itself a communicative speech act of this sort. This unanalysability is crucial to Hornsby’s
+understanding—and it’s a key way that the approach is anti-individualistic: it
+rejects looking at the perspectives of individual speakers and audiences, insisting that we should look only at the speech act as a whole.
+
+1.2 Argument from feminist politics and action
+
+Hornsby and others don’t just argue against individualism on the basis of
+empirical gender difference claims. (Indeed, Hornsby is one of those who
+insert qualifications, clearly aware that the claims could turn out to be false.)
+Although there are many feminist arguments against individualism, Hornsby’s
+other argument is based on a desire for effective feminist analysis and politics. An argument like this, it seems to me, is much more promising than one
+based on claims about women’s and men’s distinctive modes of thinking. It is
+absolutely true, and very important, that effective feminist thought and action
+require an understanding of the ways that structures and institutions work. A
+feminism which focuses exclusively on individuals will be extremely limited in
+what it can understand and what it can accomplish. It is, then, perfectly reasonable to insist that feminists cannot afford to limit their theorizing to understanding individuals.
+But some feminist arguments against individualism—especially those of
+the past—took these considerations to establish much more. Perhaps because
+there was already an air of suspicion about thinking in terms of individuals,
+some feminists of the 1990s and early 2000s argued that feminists should reject
+any theorizing that involves individuals. Hornsby‘s rejection of the work of H.P.
+Grice, and of ‘decompositionalism’ seems to Antony to be of this sort. The problem with Grice’s theory, according to Hornsby, seems to be that it discusses
+what the speaker intends to convey, and what the audience understands. This
+is said to be decompositionalist and individualistic in its separation of speaker
+Mind, Vol. XX . XX . XX 2024
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+we ‘are less likely to think in terms of independent discrete units’, then
+philosophers’ failure to give an account of saying something to someone
+that introduces an idea of communication might be blamed on habits of
+thought which we should expect to strike us—culturally situated as we
+are—as male… when communicative linguistic concepts are treated as
+decomposable, human beings are cut off from one another. The treatment
+of language then exhibits the kind of individualism which has been taken
+to be characteristic of liberal political theory—in which accounts of social
+arrangements are based in properties of individuals atomistically conceived. Such theory, which lacks a conception of politics which gender can
+easily mix with, does not suit feminists.
+
+6
+
+Book Review
+
+3. Antony in defence of individualism
+Antony argues against feminist attacks on individualism in multiple ways. One
+important strand of argument is her criticism of what she calls an ‘etiological
+approach’. An approach like this assesses views and methodologies on the basis
+of their origins, and in this case dismisses certain approaches or claims as male
+in origin and therefore either wrong or not suitable for feminists. This is the line
+of thought which gives rise to terms like ‘malestream’ (characteristic of some
+second-wave feminists, and used in Hornsby’s article). It allows for quite sweeping condemnations of philosophical approaches such as individualism. As we’ve
+seen, the accusation of ‘maleness’ can be simply about the sex/gender of those who
+founded the approach, or about the approach arising from traits that are in some
+way male—such as a quest for separation rather than connection.
+Antony’s first point is that this attention to maleness of origins is often
+quite selective. So, as she points out in her discussion of Hornsby, feminist philosophers may criticize malestream philosophy while at the same time happily
+using ideas from male theorists other than those that they criticize. Her argument against this is simple yet important:
+[V]irtually everything in the philosophical canon was produced by men.
+If, as many of us believe, all views are shaped equally by the social positions of their authors, it is surpassingly likely that any philosophical position that is subjected to scrutiny will come out of the examination looking
+male.... Since all views are shaped by the perspectives of their authors any
+charge of partiality against any view will be sustained. But if the charge of
+bias is levelled only selectively the bias in the uncriticized views is never
+Mind, Vol. XX . XX . XX 2024
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+and audience perspectives. Hornsby’s approach would instead take communication as not analysable into speaker and audience perspectives.
+As an example of what her preferred approach can do, Hornsby considers the case of hate speech. A common dismissive response to efforts to
+restrict hate speech is to place the blame for any harm that comes from it
+onto the audiences. On this line of thought, it is because of the way that the
+audiences take the hate speech that it harms them. If they could develop
+greater resilience or a sense of humour, there would be no harm. Hornsby
+rightly points out that this response involves separating the speech from
+the audience’s reaction and treating the audience’s reaction as something
+which could be changed. Hornsby’s preferred approach makes this move
+impossible. On her communicative speech act story, the speech act of saying something hateful is not separable from its uptake. So there is no room
+to pull apart the utterance from the audience‘s response and suggest that
+the audience should simply shift what they’re doing. Hornsby takes this to
+much better capture the reality and harm of hate speech, and to therefore
+make room for taking a properly serious approach to this important topic.
+
+Book Review
+
+7
+
+Historians like Eileen O’Neill (O’Neill 1997) and Christia Mercer
+(Mercer 2017) have done much to show us the forgotten importance of historical women philosophers, but it nonetheless remains true that the vast
+majority of canonical philosophy has been written by men. And Antony’s
+point holds: if one is going to take an etiological approach, one should be
+consistent about it.More importantly, though, Antony thinks that looking to
+the demographic origins of ideas or approaches as a way of assessing them
+is misguided. Ideas or approaches should only be evaluated, she argues, by
+exploring their truth or justification. Because of Antony’s naturalism, this
+examination includes not just philosophical argumentation but also empirical evidence. And one of the things that she finds most frustrating about
+etiological attacks on individualism is their apparent lack of interest in such
+evidence. As she notes, individualistic approaches are sometimes dismissed
+as male without a discussion of the reasons that philosophers like Antony
+have given for holding individualistic views.
+Importantly, Antony argues (in many chapters, across many areas of philosophy) that individualistic approaches hold value for feminists. Once more, I will
+focus on what she says about philosophy of language. Antony takes up the topic
+of hate speech, arguing that in fact an individualist approach can yield important
+benefits for feminists. Here she considers a real-life incident in which a southern
+neighbour used the expression ‘jew down’ (meaning to bargain for a lower price) in
+the presence of Antony’s Jewish husband. It was clear to her that the neighbour in
+that moment, but only in that moment, realized just how anti-Jewish that expression was. Her take on the situation is that the expression was always anti-Jewish
+whether or not a user or audience member picked up on it, and that the neighbour
+acquired an obligation to cease using it once he understood how problematic it was.
+Antony notes that a Gricean theory is particularly well suited to explain the fact that
+‘the power of derogatory terms and epithets can be independent of the intentions—
+and knowledge—of people who use them’ (p. 131). A Gricean theory allows us to
+separately examine how a word functions, what the speaker means, and what an
+audience takes from an utterance—and to look at how these may change over time
+and from context to context. It lets us say that the speaker intended no harm but
+that he nonetheless used an anti-Jewish expression; and that this may be received
+as a slur by an audience, and do harm, in spite of the speaker’s non-slurring intentions. And it lets us say that the expression may be problematic even in contexts in
+which the speaker’s audience is a different one, who finds the expression natural
+and inoffensive. We can do all this precisely because we can separately discuss word
+meaning, speaker meaning, and audience understanding.
+All of this is much harder to make sense of on the communicative speech
+act approach that Hornsby favours, on which one cannot pull apart these separate elements, and on which saying something is not possible without uptake.
+According to Hornsby, it’s problematically individualistic to look separately
+Mind, Vol. XX . XX . XX 2024
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+exposed. The illusion that these views are ‘impartial’ is thereby sustained
+(p. 104, emphases in original).
+
+8
+
+Book Review
+
+4. Polemic
+Antony herself makes note of her sometimes polemical tone, describing her paper
+‘Is There a “Feminist” Philosophy of Language?’ as ‘a polemical paper, thinly disguised as a methodological paper’ (p. 101). Indeed, this is some of what I found so
+helpfully heartening as I felt myself being attacked by other feminists when they
+discussed such things as reference or Grice. In one place—addressing Hornsby’s
+opposition to ‘decompositionalist’ discussions of speaker and audience perspectives, she writes, ‘Hornsby appears to be suggesting that one cannot hold the philosophical view that communication is relational without turning into Ayn Rand’
+(p. 111). I confess that I laughed out loud, and also that I shared her frustration
+with what she consistently reads as Hornsby’s dismissal of all semantic theories as
+unacceptably ‘malestream’ philosophy of language.
+But then I revisited Hornsby’s paper. And it bears noting that in the very
+first substantive section of the paper, Hornsby writes, ‘Some feminist writers
+in consequence have been hostile to the very idea of a semantic theory. Such
+hostility seems to me misplaced’ (p. 88). It cannot be right, then, to say that
+Hornsby herself rejects all semantic theory as unacceptably malestream. So
+something has, after all, gone wrong in Antony’s reading of Hornsby.
+On the other hand, it is difficult to see how Hornsby’s version of semantic
+theory can work. In one puzzling passage, she writes:
+When the account I have offered is brought to bear, the suggestion must
+be that where a semantic theory tells one that a sentence s means that p,
+utterances of s are seen as fit for use to say that p to someone, and that an
+utterance is fit for such use only where a fellow language user’s taking it to be
+so used could suffice for a speaker who uses it having said that p(pp. 95-6,
+emphases added).
+The sufficiency claim here is a shocking one, which seems to leave semantic content entirely up to the audience. In a further passage she writes, ‘No
+linguistic meaning without saying, and no saying without communication’
+(p. 96). Hornsby does suggest in a footnote (pp. 103-4) that we may sometimes
+want to capture the idea of a speaker saying something without succeeding in
+getting uptake. But she suggests that this would be a different conception of
+saying from what she has in mind as she argues for communicative speech acts.
+If that’s right, then what she’s talking about here seems to leave no room for
+Mind, Vol. XX . XX . XX 2024
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+at things like what the speaker intends and what the audience understands.
+Instead, we need to simply understand the speech act as a whole. But if we try to
+do this in a case like this one, we lose much of the complexity of actual speech
+situations, in which differences in perspective between speakers are a very
+important fact. Through rich and careful examples like these, Antony shows
+that feminists cannot afford to abandon the sort of approach that Hornsby
+excoriates as individualistic and decompositional.
+
+Book Review
+
+9
+
+5. Advice to feminists
+Along with her polemic, Antony argues that criticisms like Hornsby’s—ones
+which rule out entire intellectual approaches as anti-feminist—are immensely
+damaging. And here, I think, she has things exactly right. What she offers is not
+just a plea to move more slowly and carefully in judging a methodology to be
+anti-feminist, but also an astute analysis of the damage done to other feminists
+by such sweeping dismissals of methodologies:
+Mind, Vol. XX . XX . XX 2024
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+an idea of linguistic meaning except in situations where speaker and audience
+understand one another. Both of these claims are difficult to reconcile with systematic semantic theory. But they are also difficult to reconcile with the excellent work done by Hornsby (Hornsby 1993) and Rae Langton (Langton 1993)
+on the ways that women’s communication can be stymied by a failure to understand brought on by cultural forces like pornography. On Hornsby’s view of
+linguistic meaning, a woman whose ‘no’ isn’t understood has not uttered anything whose linguistic meaning is no. This is a stronger conclusion than either
+Hornsby or Langton endorses in these papers.Hornsby’s claims, then, really
+do seem implausibly strong—and a clear result of her dismissal of anything
+remotely individualistic. Antony’s criticism is also overblown, taking Hornsby
+to be more hostile to semantic theory than she is—and also, perhaps, taking
+her to be more hostile to those who make use of individualism than she is.
+Hornsby never says anything remotely like what Antony attributes to her in the
+Ayn Rand quotation: she doesn’t argue that individualism will corrupt people
+politically, turning them into far-right figures. She just thinks feminists would
+be better off as anti-individualists.
+My suspicion is that part of what has gone wrong here is that
+­anti-individualist feminists like Hornsby or the Hintikkas do not mean to be
+arguing against individualist and Gricean feminists. All of the targets they discuss are mainstream, male philosophers who are not doing anything remotely
+feminist. However, when individualist and Gricean feminists like Antony and I
+read this work, it’s difficult to bear this in mind: mainstream philosophers were
+dismissing us as not even doing philosophy, so we were horrified to see feminists saying that what we were doing couldn’t be feminist. But this is perhaps
+misunderstanding their primary target: although they do say that, for example,
+decompositionalism is at odds with feminism, they are not thinking of feminist
+philosophers making use of decompositionalism. It’s a mistake to take this to
+be directed at Gricean feminists, just as it’s a mistake for the Hornsbys and
+Hintikkas of the world to fail to see ways that Grice could be used to further
+feminist causes. Tasneem Alsayyed (Alsayyed 2023) has beautifully analysed
+phenomena like these as what she calls third party hermeneutical impasses, in
+which people who should be allies in many ways find it difficult to communicate because they’re each focused on a different opponent. This focus on different opponents leads to systematic misunderstandings.
+
+10
+
+Book Review
+
+Although my focus in this review has been on a particular dispute and its historical
+context, the lessons really are much broader and more enduring. A few years ago, a
+contemporary of mine told me he had assumed back in graduate school that I was
+right-wing, because I was a direct reference theorist. I have had feminist philosophers tell me that other feminists have dismissed their work as not feminist because
+they are doing analytic metaphysics or harbouring a fondness for Descartes. I have,
+even in recent years, witnessed serious hostility among left-wing philosophers to
+the very idea of using Grice or the notion of reference in anti-oppressive philosophy
+of language. None of these theoretical approaches rule out valuable feminist work.
+Antony is right to insist that feminist philosophers should be happy to accept valuable resources for doing feminist philosophy, even if those resources come from
+surprising places. Her work has done much to make feminist philosophy the pluralistic place that it now is. But her message still needs to be heard and remembered:
+we should stop using ‘feminist’ as a bludgeon.
+In this review, I have focused narrowly, but in a way that I hope illuminates Antony’s approach and its enormous value to feminist philosophy. Only
+Natural collects together papers that have played a vital role in the development
+of one of the most vibrant areas of philosophy today. But its importance is not
+just historical: it should be read by everyone doing feminist philosophy, whatever their approach to the field.*
+
+References
+Alsayyed, T. (2023) ‘3rd Party Hermeneutical Impasses’. Under consideration.
+Gilligan, C. (1983) In a different voice: psychological theory and women’s development. Cambridge, Mass: Harvard University Press (Ottawa Psychoanalytical Society Collection).
+
+*
+For discussion of this review, I’m very grateful to Susan Brison, Ray Drainville, Samia Hesni,
+Katharine Jenkins, Kate Norlock, and Ashley Pennington.
+
+Mind, Vol. XX . XX . XX 2024
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+All of us who have chosen to make a career out of philosophy have been
+drawn to the subject because of some problem that bothered us, some dialectic that engaged us, or some thinker who moved us. To this extent, we
+felt ourselves at home in philosophy. But as women in a male-dominated
+field, we have also experienced isolation, alienation, rejection, or all of
+these, and many of us have looked to a community of feminist philosophers—partly actual, partly imagined—for relief. In circumstances such as
+these, many of us will of course try to unify our philosophical and political
+standpoints. My plea is that we do this constructively, by finding whatever
+matches we can between the theoretical questions generated by our politics and the intellectual resources supplied by our philosophies. Let us not
+dishonour the appellation ‘feminist’ by turning it into a bludgeon. (p. 135)
+
+Book Review
+
+11
+
+University of Waterloo, Canada
+University of Sheffield, UK
+Jennifer.saul@uwaterloo.ca
+https://doi.org/10.1093/mind/fzad074
+
+Mind, Vol. XX . XX . XX 2024
+
+JENNIFER SAUL
+
+© Mind Association 2024
+
+Downloaded from https://academic.oup.com/mind/advance-article/doi/10.1093/mind/fzad074/7613906 by Georgia Institute of Technology user on 22 April 2024
+
+Hintikka, M.B. and Hintikka, J. (1983) ‘How Can Language be Sexist?’, in M.B.
+Hintikka and S. Harding (eds) Discovering Reality:Feminist Perspectives
+on Epistemology, Metaphysics, Methodology, and Philosophy of Science.
+Springer, pp. 139–148.
+Hornsby, J. (1993) ‘Speech Acts and Pornography’, Women’s Philosophy Review,
+10, pp. 38–45.
+Hornsby, J. (2000) ‘Feminism in Philosophy of Language: Communicative
+Speech Acts’, in M. Fricker and J. Hornsby (eds.) The Cambridge Companion to Feminism in Philosophy. Cambridge University Press, pp. 87–106.
+Langton, R. (1993) ‘Speech Acts and Unspeakable Acts’, Philosophy & Public
+Affairs, 22(4), pp. 293–330.
+Mercer, C. (2017) ‘Descartes’ debt to Teresa of Ávila, or why we should work
+on women in the history of philosophy’, Philosophical Studies, 174(10), pp.
+2539–2555.
+O’Neill, E. (1997) ‘Disappearing Ink: Early Modern Women Philosophers and
+Their Fate in History’, in J.A. Kourany (ed.) Philosophy in a Feminist Voice:
+Critiques and Reconstructions. Princeton University Press, pp. 17–62.
+
+
