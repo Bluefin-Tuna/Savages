@@ -18,10 +18,45 @@ system_prompt = """ You will be presented with a multiple-choice question that q
     E. Immanuel Kant
     F. Ludwig Feuerbach
     G. Plato
+    H. Jennifer Saul
+    I. Linda Martín Alcoff
     Answer:"""
 
 
 Few shot prompting
+system_prompt="""You will be presented with a multiple-choice question that quotes a passage from a book by a philosopher. 
+The possible answer choices will be the names of different philosophers who could potentially be the author of the quoted passage. 
+Your task is to carefully read the quoted passage and select the philosopher from the given choices who is the actual author of that passage from their book. 
+Do not provide any additional analysis or explanation - simply indicate which philosopher is the correct answer by choosing the corresponding option.
+Passage 1:
+In Tragedy, however, they still adhere to the historic names; and for this reason: what convinces is the possible; now whereas we are not yet sure as to the possibility of that which has not happened, that which has happened is manifestly possible, else it would not have come to pass.
+Author: Aristotle
+Option A
+Passage 2:
+But let the liar and the hypocrite beware of our German music: for in the midst of all our culture it is really the only genuine, pure and purifying fire-spirit from which and towards which, as in the teaching of the great Heraclitus of Ephesus, all things move in a double orbit-all that we now call culture, education, civilisation, must appear some day before the unerring judge, Dionysus.
+Author: Friedrich Wilhelm Nietzsche
+Option C
+Passage 3:
+The faculty of desire, so far as it is determinable only through concepts, _i.e._ to act in conformity with the representation of a purpose, would be the Will.
+Author: Immanuel Kant
+Option E
+Passage 4:
+This makes Rawlsians (or those well-off who accept his view) into saviors, as Walter Mignolo calls liberals, by obscuring how the immediate present was formed by the past.
+Author: Linda Martín Alcoff
+Option I
+passage="""
+option_prompt = """
+Options: 
+A. Aristotle
+B. Arthur Schopenhauer
+C. Friedrich Wilhelm Nietzsche
+D. Georg Wilhelm Friedrich Hegel
+E. Immanuel Kant
+F. Ludwig Feuerbach
+G. Plato
+H. Jennifer Saul
+I. Linda Martín Alcoff
+Answer:"""
 
 
 
@@ -29,6 +64,23 @@ Few shot prompting
 Chain of thought promting
 
 Zero shot chain of thought propting
+system_prompt = """ You will be presented with a multiple-choice question that quotes a passage from a book by a philosopher. 
+    The possible answer choices will be the names of different philosophers who could potentially be the author of the quoted passage. 
+    Your task is to carefully read the quoted passage and select the philosopher from the given choices who is the actual author of that passage from their book. 
+    Do not provide any additional analysis or explanation - simply indicate which philosopher is the correct answer by choosing the corresponding option. Let's think step by step.
+    Passage: """
+    option_prompt = """
+    Options: 
+    A. Aristotle
+    B. Arthur Schopenhauer
+    C. Friedrich Wilhelm Nietzsche
+    D. Georg Wilhelm Friedrich Hegel
+    E. Immanuel Kant
+    F. Ludwig Feuerbach
+    G. Plato
+    H. Jennifer Saul
+    I. Linda Martín Alcoff
+    Answer:"""
 
 Self consistency prompting
 
