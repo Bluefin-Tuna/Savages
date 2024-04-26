@@ -16,7 +16,7 @@ def main(config_path):
         config = json.load(f)
 
     # Only one model is used in this file
-    model_name = "meta-llama/Llama-2-7b-hf"
+    model_name = "meta-llama/Meta-Llama-3-8B"
     device_id = 0
     # If device_id is not provided, set the device to 'auto'
     device = f'cuda:{device_id}' if device_id >= 0  else 'auto'
