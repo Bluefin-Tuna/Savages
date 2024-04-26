@@ -61,7 +61,48 @@ Answer:"""
 
 
 
-Chain of thought promting
+few shot Chain of thought promting
+system_prompt = """You will be presented with a multiple-choice question that quotes a passage from a book by a philosopher. 
+The possible answer choices will be the names of different philosophers who could potentially be the author of the quoted passage. 
+Your task is to carefully read the quoted passage and select the philosopher from the given choices who is the actual author of that passage from their book. 
+Do not provide any additional analysis or explanation - simply indicate which philosopher is the correct answer by choosing the corresponding option.
+Passage 1:
+In Tragedy, however, they still adhere to the historic names; and for this reason: what convinces is the possible; now whereas we are not yet sure as to the possibility of that which has not happened, that which has happened is manifestly possible, else it would not have come to pass.
+Author: Aristotle
+Option A
+Let's think step by step: This passage reflects a contemplation on the nature of tragedy and the significance of historical events. The reference to "historic names" suggests a reverence for tradition, aligning with Aristotle's philosophical views. Additionally, the emphasis on possibility and inevitability resonates with Aristotle's concept of teleology and causal determinism, further supporting the attribution to Aristotle.
+
+Passage 2:
+But let the liar and the hypocrite beware of our German music: for in the midst of all our culture it is really the only genuine, pure and purifying fire-spirit from which and towards which, as in the teaching of the great Heraclitus of Ephesus, all things move in a double orbit-all that we now call culture, education, civilisation, must appear some day before the unerring judge, Dionysus.
+Author: Friedrich Wilhelm Nietzsche
+Option C
+Let's think step by step: This passage evokes a sense of cultural critique and existential reflection. The mention of "German music" and references to Heraclitus and Dionysus suggest a philosophical discourse rooted in Nietzschean themes of individualism, existentialism, and the Dionysian spirit. Nietzsche's philosophical ideas often explore the tension between authenticity and societal norms, making him a likely candidate for the authorship of this passage.
+
+Passage 3:
+The faculty of desire, so far as it is determinable only through concepts, _i.e._ to act in conformity with the representation of a purpose, would be the Will.
+Author: Immanuel Kant
+Option E
+Let's think step by step: This passage discusses the concept of desire and its relationship to the will, reflecting Kant's transcendental idealism and moral philosophy. The emphasis on the faculty of desire being determinable through concepts aligns with Kant's view of the rational mind as the source of moral principles. Additionally, the clarity and precision of language are characteristic of Kantian philosophical discourse.
+
+Passage 4:
+This makes Rawlsians (or those well-off who accept his view) into saviors, as Walter Mignolo calls liberals, by obscuring how the immediate present was formed by the past.
+Author: Linda Martín Alcoff
+Option I
+Let's think step by step: This passage critiques Rawlsian liberalism and its impact on societal perceptions of justice and historical context. The reference to Walter Mignolo and the critique of liberalism suggest a contemporary and critical perspective, consistent with Linda Martín Alcoff's scholarly work on race, gender, and social justice. Alcoff's intersectional approach to philosophy and emphasis on historical consciousness support the attribution of authorship to her.
+"""
+option_prompt = """
+Options: 
+A. Aristotle
+B. Arthur Schopenhauer
+C. Friedrich Wilhelm Nietzsche
+D. Georg Wilhelm Friedrich Hegel
+E. Immanuel Kant
+F. Ludwig Feuerbach
+G. Plato
+H. Jennifer Saul
+I. Linda Martín Alcoff
+Answer:
+"""
 
 Zero shot chain of thought propting
 system_prompt = """ You will be presented with a multiple-choice question that quotes a passage from a book by a philosopher. 
@@ -82,5 +123,4 @@ system_prompt = """ You will be presented with a multiple-choice question that q
     I. Linda Martín Alcoff
     Answer:"""
 
-Self consistency prompting
 
