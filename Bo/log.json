@@ -1,0 +1,1212 @@
+{
+    "The Logic of Hegel": [
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.86
+        },
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.8
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.82
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.67
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.52
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.39
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.62
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.42
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.75
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.57
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.66
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.5
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.6
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.41
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.69
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.53
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.6
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Georg Wilhelm Friedrich Hegel",
+            "accuracy": 0.42
+        }
+    ],
+    "Phaedo": [
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Plato",
+            "accuracy": 0.91
+        },
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Plato",
+            "accuracy": 0.88
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Plato",
+            "accuracy": 0.89
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Plato",
+            "accuracy": 0.84
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Plato",
+            "accuracy": 0.85
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Plato",
+            "accuracy": 0.75
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Plato",
+            "accuracy": 0.82
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Plato",
+            "accuracy": 0.79
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Plato",
+            "accuracy": 0.87
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Plato",
+            "accuracy": 0.83
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Plato",
+            "accuracy": 0.85
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Plato",
+            "accuracy": 0.8
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Plato",
+            "accuracy": 0.84
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Plato",
+            "accuracy": 0.75
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Plato",
+            "accuracy": 0.88
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Plato",
+            "accuracy": 0.79
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Plato",
+            "accuracy": 0.85
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Plato",
+            "accuracy": 0.76
+        }
+    ],
+    "The Birth of Tragedy; or, Hellenism and Pessimism": [
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.84
+        },
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.81
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.83
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.73
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.54
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.43
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.64
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.53
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.8
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.67
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.71
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.58
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.63
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.47
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.75
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.64
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.64
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Friedrich Wilhelm Nietzsche",
+            "accuracy": 0.52
+        }
+    ],
+    "The Essence of Christianity": [
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.84
+        },
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.89
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.65
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.75
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.35
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.56
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.43
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.62
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.56
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.81
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.48
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.66
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.37
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.55
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.51
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.71
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.4
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Ludwig Feuerbach",
+            "accuracy": 0.58
+        }
+    ],
+    "Only Natural- Gender, Knowledge, and Humankind, by Louise Antony": [
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Jennifer Saul",
+            "accuracy": 0.75
+        },
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Jennifer Saul",
+            "accuracy": 0.81
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Jennifer Saul",
+            "accuracy": 0.58
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Jennifer Saul",
+            "accuracy": 0.71
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Jennifer Saul",
+            "accuracy": 0.47
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Jennifer Saul",
+            "accuracy": 0.23
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Jennifer Saul",
+            "accuracy": 0.36
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Jennifer Saul",
+            "accuracy": 0.43
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Jennifer Saul",
+            "accuracy": 0.53
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Jennifer Saul",
+            "accuracy": 0.57
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Jennifer Saul",
+            "accuracy": 0.53
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Jennifer Saul",
+            "accuracy": 0.48
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Jennifer Saul",
+            "accuracy": 0.42
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Jennifer Saul",
+            "accuracy": 0.25
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Jennifer Saul",
+            "accuracy": 0.56
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Jennifer Saul",
+            "accuracy": 0.54
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Jennifer Saul",
+            "accuracy": 0.39
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Jennifer Saul",
+            "accuracy": 0.31
+        }
+    ],
+    "Kant's Critique of Judgement": [
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Immanuel Kant",
+            "accuracy": 0.95
+        },
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Immanuel Kant",
+            "accuracy": 0.87
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Immanuel Kant",
+            "accuracy": 0.82
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Immanuel Kant",
+            "accuracy": 0.78
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Immanuel Kant",
+            "accuracy": 0.66
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Immanuel Kant",
+            "accuracy": 0.54
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Immanuel Kant",
+            "accuracy": 0.8
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Immanuel Kant",
+            "accuracy": 0.61
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Immanuel Kant",
+            "accuracy": 0.8
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Immanuel Kant",
+            "accuracy": 0.712024
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Immanuel Kant",
+            "accuracy": 0.77
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Immanuel Kant",
+            "accuracy": 0.62
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Immanuel Kant",
+            "accuracy": 0.63
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Immanuel Kant",
+            "accuracy": 0.57
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Immanuel Kant",
+            "accuracy": 0.74
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Immanuel Kant",
+            "accuracy": 0.66
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Immanuel Kant",
+            "accuracy": 0.71
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Immanuel Kant",
+            "accuracy": 0.59
+        }
+    ],
+    "Iv'e been thinking": [
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.86
+        },
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.96
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.78
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.9
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.53
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.76
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.61
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.82
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.72
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.88
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.64
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.83
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.56
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.78
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.69
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.82
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.6
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.8
+        }
+    ],
+    "Commentary on Mark Richard, Meanings as Species": [
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.96
+        },
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.94
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.88
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.89
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.88
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.77
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.88
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.83
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.92
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.92
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.92
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.83
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.84
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.78
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.84
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.86
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.84
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Daniel C. Dennett",
+            "accuracy": 0.79
+        }
+    ],
+    "The roots  and routes  of the epistemology of ignorance": [
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 1.0
+        },
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.81
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 1.0
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.73
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.67
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.32
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.9
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.45
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.95
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.64
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.9
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.51
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.81
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.38
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.95
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.57
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.9
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Linda Marti\u0301n Alcoff",
+            "accuracy": 0.41
+        }
+    ],
+    "Aristotle on the art of poetry": [
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Aristotle",
+            "accuracy": 0.83
+        },
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Aristotle",
+            "accuracy": 0.74
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Aristotle",
+            "accuracy": 0.74
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Aristotle",
+            "accuracy": 0.68
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Aristotle",
+            "accuracy": 0.5
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Aristotle",
+            "accuracy": 0.63
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Aristotle",
+            "accuracy": 0.59
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Aristotle",
+            "accuracy": 0.67
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Aristotle",
+            "accuracy": 0.7
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Aristotle",
+            "accuracy": 0.77
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Aristotle",
+            "accuracy": 0.65
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Aristotle",
+            "accuracy": 0.71
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Aristotle",
+            "accuracy": 0.55
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Aristotle",
+            "accuracy": 0.64
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Aristotle",
+            "accuracy": 0.67
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Aristotle",
+            "accuracy": 0.68
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Aristotle",
+            "accuracy": 0.58
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Aristotle",
+            "accuracy": 0.67
+        }
+    ],
+    "The World as Will and Idea (Vol. 3 of 3)": [
+        {
+            "num_options": 2,
+            "passage_type": "sentence",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.91
+        },
+        {
+            "num_options": 2,
+            "passage_type": "paragraph",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.94
+        },
+        {
+            "num_options": 3,
+            "passage_type": "sentence",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.8
+        },
+        {
+            "num_options": 3,
+            "passage_type": "paragraph",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.87
+        },
+        {
+            "num_options": 10,
+            "passage_type": "sentence",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.41
+        },
+        {
+            "num_options": 10,
+            "passage_type": "paragraph",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.62
+        },
+        {
+            "num_options": 7,
+            "passage_type": "sentence",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.52
+        },
+        {
+            "num_options": 7,
+            "passage_type": "paragraph",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.71
+        },
+        {
+            "num_options": 4,
+            "passage_type": "sentence",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.72
+        },
+        {
+            "num_options": 4,
+            "passage_type": "paragraph",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.81
+        },
+        {
+            "num_options": 6,
+            "passage_type": "sentence",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.59
+        },
+        {
+            "num_options": 6,
+            "passage_type": "paragraph",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.7
+        },
+        {
+            "num_options": 9,
+            "passage_type": "sentence",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.46
+        },
+        {
+            "num_options": 9,
+            "passage_type": "paragraph",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.67
+        },
+        {
+            "num_options": 5,
+            "passage_type": "sentence",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.66
+        },
+        {
+            "num_options": 5,
+            "passage_type": "paragraph",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.81
+        },
+        {
+            "num_options": 8,
+            "passage_type": "sentence",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.5
+        },
+        {
+            "num_options": 8,
+            "passage_type": "paragraph",
+            "author": "Arthur Schopenhauer",
+            "accuracy": 0.69
+        }
+    ]
+}
